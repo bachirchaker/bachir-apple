@@ -1,0 +1,71 @@
+[
+    {
+        "id": "BA-261020-8410",
+        "date": "20\/10\/2026 11:20:50",
+        "telephone": {
+            "id": 2,
+            "marque": "Apple",
+            "modele": "iPhone 15 Pro",
+            "couleur": "Titane Naturel",
+            "etat": "Occasion",
+            "prix": 1350000,
+            "garantie": "6 mois",
+            "batterie": 91,
+            "image": "uploads\/iphone15pro.jpg"
+        },
+        "client": {
+            "nom": "bachir chaker",
+            "telephone": "0555752365",
+            "wilaya_code": "31",
+            "wilaya_nom": "31 - Oran",
+            "adresse": "HAI BOUAMAMA ER PONT ALBIN"
+        },
+        "statut": "En cours d'exécution"
+    },
+    {
+        "id": "BA-261020-9199",
+        "date": "20\/10\/2026 11:21:32",
+        "telephone": {
+            "id": 1,
+            "marque": "Apple",
+            "modele": "iPhone 16 Pro Max",
+            "couleur": "Titane Désert",
+            "etat": "Neuf",
+            "prix": 2199000,
+            "garantie": "1 an Apple",
+            "batterie": null,
+            "image": "uploads\/iphone16promax.jpg"
+        },
+        "client": {
+            "nom": "Karim Amara",
+            "telephone": "0555123456",
+            "wilaya_code": "16",
+            "wilaya_nom": "16 - Alger",
+            "adresse": "Bab Ezzouar"
+        },
+        "statut": "En cours d'exécution"
+    },
+    {
+        "id": "BA-261020-8758",
+        "date": "20\/10\/2026 11:22:24",
+        "telephone": {
+            "id": 2,
+            "marque": "Apple",
+            "modele": "iPhone 15 Pro",
+            "couleur": "Titane Naturel",
+            "etat": "Occasion",
+            "prix": 1350000,
+            "garantie": "6 mois",
+            "batterie": 91,
+            "image": "uploads\/iphone15pro.jpg"
+        },
+        "client": {
+            "nom": "bachir chaker",
+            "telephone": "0555752365",
+            "wilaya_code": "07",
+            "wilaya_nom": "07 - Biskra",
+            "adresse": "HAI BOUAMAMA ER PONT ALBIN"
+        },
+        "statut": "En cours d'exécution"
+    }
+]
